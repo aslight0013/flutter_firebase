@@ -1,4 +1,4 @@
-# FlutFire
+## FlutFire
 
 A Flutter project with implementation of all firebase libraries for Android and iOS both.
 
